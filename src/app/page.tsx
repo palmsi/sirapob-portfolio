@@ -117,7 +117,7 @@ export default function Home() {
 
       {/* Inspiration Quote Section */}
       <section className="max-w-3xl mx-auto mb-20 bg-blue-50 p-8 rounded-xl shadow-md text-center">
-        <blockquote className="text-xl italic text-gray-700">“What I don’t know today, I’ll learn tomorrow.”</blockquote>
+        <blockquote className="text-xl italic text-gray-700">"What I don't know today, I'll learn tomorrow."</blockquote>
         <p className="mt-4 text-gray-600">— My guiding mindset</p>
         <p className="mt-4 text-gray-700">This quote reflects my approach to learning and growth: every unknown is just a challenge waiting to be understood with effort and persistence.</p>
       </section>
