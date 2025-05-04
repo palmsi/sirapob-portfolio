@@ -35,7 +35,7 @@ export default function Home() {
         <div className="bg-gray-50 p-8 rounded-xl shadow-md">
           <h2 className="text-2xl font-semibold mb-4">Education</h2>
           <ul className="text-gray-700 list-disc list-inside">
-            <li><strong>Bachelor’s Degree in Computer Science</strong> — Chiang Mai University, Thailand</li>
+            <li><strong>Bachelor's Degree in Computer Science</strong> — Chiang Mai University, Thailand</li>
           </ul>
         </div>
       </section>
